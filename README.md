@@ -1,5 +1,5 @@
 # Hi there 👋
-![Static Badge](https://img.shields.io/badge/Mr_Rilett-Nora_Frances_Henderson-blue)
+![Static Badge](https://img.shields.io/badge/ KayVan-Nora_Frances_Henderson-blue)
 
 To make the shield above, check out shields.io ![Static Badge](https://img.shields.io/badge/to%20make%20anything%20you%20would%20like!-8A2BE2)
 
